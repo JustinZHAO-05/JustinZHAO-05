@@ -1,48 +1,35 @@
 # Yanzhe (Justin) Zhao
 
-**Computational Neuroscience · Cognitive Neuroscience**
+**Computational and Cognitive Neuroscience | Neurolinguistics**
 
-B.Eng. student in Automation, **School of Future Technology, Tianjin University**  
-Intelligent Machine Platform Honors Track
+I am a final-year Automation undergraduate in the **School of Future Technology at Tianjin University** (Intelligent Machine Platform Honors Track; expected graduation July 2027). I am also a visiting undergraduate researcher in the [Shanshan Qin Lab](https://ssqinlab.com/) at Shanghai Jiao Tong University.
 
-## About Me
+[Academic website](https://justinzhao-05.github.io/) | [CV (PDF)](https://justinzhao-05.github.io/files/Yanzhe_Zhao_CV.pdf) | [ORCID](https://orcid.org/0009-0003-5342-6611) | [Email](mailto:justinzhaoyz@outlook.com)
 
-My academic path began in robotics, control, and deep reinforcement learning. I am now interested in how neural systems represent information, learn from experience, and support perception and cognition. I bring a background in mathematical modeling, signal processing, statistical analysis, and integrated engineering systems to questions in computational and cognitive neuroscience.
+## Research
 
-I currently participate in research in **Prof. Shanshan Qin’s group at Shanghai Jiao Tong University**, focusing on representational drift and neural state segmentation in naturalistic EEG.
+My training in mathematics, control, and robotics led me to ask how neural population dynamics give rise to cognition. I am especially interested in the neural mechanisms of language processing and acquisition, how cognitive capacities emerge through evolution, and the neural basis of subjective experience.
 
-## Research Interests
+At the Qin Lab, I analyze longitudinal neural recordings to study the relationship between **representational drift and sparsity** and develop models of candidate drift mechanisms. My undergraduate thesis uses **coupled oscillator dynamics** to model circadian clock networks.
 
-- Neural representations and dynamics: representational drift and neural manifolds
-- Bayesian perception and inference
-- Learning, memory, and predictive processing
-- Naturalistic neural state segmentation and event boundaries
+## Publications and Preprints
 
-## Current Research
+**Preprints**
 
-**Representational Drift — ongoing**  
-Studying changes in neural representations through neural dynamics, manifold analysis, theoretical modeling, and statistical evaluation.
+- [From Novel Combinations to Informative Absence: Structural permission, communicative opportunity, and form choice in language learning](https://arxiv.org/abs/2611.27762). A computational account of when learners can use omissions as evidence about possible expressions.
+- [History-bearing thalamocortical signals reconstruct and redirect later decisions in a circuit model](https://zenodo.org/records/24418936). A study of how thalamocortical input and recurrent dynamics carry sensory history across decisions.
+- [Observation architecture and the identifiability of temporal irreversibility](https://zenodo.org/records/24400331). A theoretical analysis of which features of time-reversal asymmetry can be identified from multichannel recordings.
+- [HP-GSBS: Accelerating greedy state boundary search with reusable interval statistics](https://arxiv.org/abs/2610.25898v3). An efficient implementation of neural-state segmentation, validated on benchmarks, EEG, and naturalistic fMRI.
 
-**Naturalistic EEG and Event Segmentation — ongoing**  
-Investigating neural event boundaries and temporal state organization during naturalistic stimulation, using EEG analysis and state segmentation methods.
+**Peer-reviewed publication**
 
-## Selected Research & Software
+- Denghan Xiong, **Yanzhe Zhao**, Yutong Chen, and Zichun Wang. [Nonholonomic Narrow Dead-End Escape with Deep Reinforcement Learning](https://justinzhao-05.github.io/publication/nonholonomic-narrow-dead-end-escape/). ACM CSAI 2025, pp. 126-131. [Open version](https://arxiv.org/abs/2511.22338).
 
-| Project | Focus |
-| :--- | :--- |
-| [**HP-GSBS**](https://github.com/JustinZHAO-05/HP-GSBS) | High-Performance Greedy State Boundary Search for neural time-series segmentation, with CPU, PyTorch CUDA, and Triton backends and scientific consistency validation. |
-| [**Temporal Persistence of Perceptual Inference**](https://github.com/JustinZHAO-05/Temporal-Persistence-of-Perceptual-Inference-by-Group-Doraemon-Neuromatch-CN-2026) | **Team project**, Neuromatch Academy Computational Neuroscience 2026: Bayesian observers, hidden Markov models, temporal persistence, and model comparison. |
-| [**Eight-Cable-Driven Parallel Robot**](https://github.com/JustinZHAO-05/Eight-Cable-Driven-Parallel-Robot) | An integrated robot design and implementation project spanning mechanics, kinematics, dynamics, control, and hardware–software integration. |
-| [**EEG Feature Enhancement & Single-Trial Decoding**](https://github.com/JustinZHAO-05/medical-signal-experiment4) | ERP analysis with ICA/PCA/LDA and SSVEP recognition with TRCA; complemented by [filtering and ERP analysis](https://github.com/JustinZHAO-05/medical-signal-filtering-erp-analysis), [spectral estimation](https://github.com/JustinZHAO-05/medical-signal-spectral-estimation-eeg), and [time–frequency analysis](https://github.com/JustinZHAO-05/time-frequency-analysis-eeg-openbmi). |
-| [**Brunel Balance Network**](https://github.com/JustinZHAO-05/brunel-balance-network) | Brian2 reproduction and analysis of sparse excitatory–inhibitory spiking network dynamics. |
+## Selected Code and Projects
 
-## Publication
+- [**HP-GSBS**](https://github.com/JustinZHAO-05/HP-GSBS): CPU and GPU implementations of Greedy State Boundary Search, with checks for agreement with the reference algorithm.
+- [**Temporal Persistence of Perceptual Inference**](https://github.com/JustinZHAO-05/Temporal-Persistence-of-Perceptual-Inference-by-Group-Doraemon-Neuromatch-CN-2026): Neuromatch Academy 2026 team project. I proposed the research question, contributed to code and model analysis, and co-presented the findings.
+- [**EEG Feature Enhancement and Single-Trial Decoding**](https://github.com/JustinZHAO-05/medical-signal-experiment4): Reproducible course experiments in ERP preprocessing, ICA/PCA/LDA classification, and SSVEP decoding with TRCA.
+- **Robotics**: [Deep RL for dead-end escape](https://github.com/JustinZHAO-05/cisDRL-RobotNav) and a [six-degree-of-freedom cable-driven robot](https://github.com/JustinZHAO-05/Eight-Cable-Driven-Parallel-Robot), from mechanism design to control and hardware integration.
 
-Denghan Xiong, **Yanzhe Zhao**, Yutong Chen, and Zichun Wang.  
-**Nonholonomic Narrow Dead-End Escape with Deep Reinforcement Learning.**  
-*Proceedings of the 2025 9th International Conference on Computer Science and Artificial Intelligence*, ACM, pp. 126–131.  
-[DOI: 10.1145/3788149.3788204](https://doi.org/10.1145/3788149.3788204)
-
-## Links & Contact
-
-[Academic Website](https://justinzhao-05.github.io/) · [CV](https://justinzhao-05.github.io/cv/) · [justinzhaoyz@outlook.com](mailto:justinzhaoyz@outlook.com)
+[All projects](https://justinzhao-05.github.io/portfolio/) | [Publication details](https://justinzhao-05.github.io/publications/) | [Intellectual journey](https://justinzhao-05.github.io/intellectual-journey/)
