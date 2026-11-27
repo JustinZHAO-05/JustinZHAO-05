@@ -18,7 +18,7 @@ At the Qin Lab, I analyze longitudinal neural recordings to study the relationsh
 
 - [From Novel Combinations to Informative Absence: Structural permission, communicative opportunity, and form choice in language learning](https://arxiv.org/abs/2611.27762). A computational account of when learners can use omissions as evidence about possible expressions.
 - [History-bearing thalamocortical signals reconstruct and redirect later decisions in a circuit model](https://zenodo.org/records/24418936). A study of how thalamocortical input and recurrent dynamics carry sensory history across decisions.
-- [Observation architecture and the identifiability of temporal irreversibility](https://zenodo.org/records/24400331). A theoretical analysis of which features of time-reversal asymmetry can be identified from multichannel recordings.
+- [Observation architecture and the identifiability of temporal irreversibility](https://doi.org/10.5281/zenodo.24594518). A theoretical analysis of which features of time-reversal asymmetry can be identified from multichannel recordings.
 - [HP-GSBS: Accelerating greedy state boundary search with reusable interval statistics](https://arxiv.org/abs/2610.25898v3). An efficient implementation of neural-state segmentation, validated on benchmarks, EEG, and naturalistic fMRI.
 
 **Peer-reviewed publication**
